@@ -8,8 +8,8 @@ Kaggle의 **Twitter US Airline Sentiment dataset**을 활용하여 **트윗 내�
 ## 🎯 Features
 ✅ **텍스트 감정 분석** (`positive`, `neutral`, `negative`)  
 ✅ **GPT 기반 조언 제공** (예: 부정적인 감정의 경우 해결책 제안)  
-✅ **SHAP 시각화**를 통한 감정 분류 근거 제공  
-✅ **Streamlit UI**를 통한 배포
+❌ **SHAP 시각화**를 통한 감정 분류 근거 제공
+❌ **Streamlit UI**를 통한 배포
 
 ## 📊 Dataset
 - **출처**: [Twitter US Airline Sentiment (Kaggle)](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
@@ -149,4 +149,4 @@ Focal Loss는 **자주 등장하는 쉬운 샘플(negative)에 대한 가중치�
 ---
 
 ## 🚀 Try it!
-🔗 [스트림릿 배포 링크 추가]
+🔗 [배포하면 올릴게요 ㅠㅠㅠ]
