@@ -36,7 +36,7 @@ Kaggle의 **Twitter US Airline Sentiment dataset**을 활용하여 **트윗 내�
 ### **2️⃣ 사용한 Hugging Face Transformer 모델**
 | 모델 | 설명 |
 |------|------|
-| **bert-base-uncased** | 기본 BERT 모델 (소문자 변환) |
+| **bert-base-uncased** | 기본 BERT 모델 |
 | **bert-large-uncased** | BERT-Base보다 더 깊은 모델 (레이어 수 증가) |
 | **roberta-base** | **BERT보다 10배 많은 데이터**로 학습된 모델 (동적 Masking 적용) |
 | **roberta-large** | RoBERTa-Base보다 더 크고 강력한 모델 |
